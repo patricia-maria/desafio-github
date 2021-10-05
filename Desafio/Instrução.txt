@@ -1,0 +1,13 @@
+DESAFIO:
+
+Criar e organizar o material estudado nas aulas do Bootcamp e salva-los dentro do Git.
+
+ORIENTAÇÕES PARA EXECUÇÃO
+
+* Criar o material de apoio;
+* Acessar a pasta e fazer um git bash;
+* Entrar no repositorio (desafio-github)
+* git status para verificar se ta ok - opcional
+* git add . -> para adicionar localmente
+* git commit -m "mensagem sobre o projeto"
+* git push origin main -> enviará todos os commits criados no local
